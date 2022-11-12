@@ -1,3 +1,15 @@
+"""I really struggled with the implementation in python (esp. shapes and dimensions of arrays).
+I have understood the concept of backpropagation, and the coding classes and flipped classroom
+session helped immensely in understanding these concepts. But considering the implementation,
+there was just too little help. I went to both coding classes, but it was either too few tutors for
+asking questions, or it was about the theoretical concept of backpropagation.
+I really enjoy this course, and I have put 20+ hours into the homework this week,
+but I just was not able to get everything implemented in Python.
+I either miss the required python knowledge or there was just too little guidance in the coding support, or both.
+Nevertheless, I think I implemented the Layer and the MLP correctly.
+The training step and the visualization is still not finished, because I am really struggling with shapes and dimensions in Python."""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
